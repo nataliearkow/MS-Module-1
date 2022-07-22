@@ -1,4 +1,4 @@
-# module_1_challenge
+# Module_1_Challenge
 Michigan State - Full Stack Bootcamp - Module 1 Challenge - HTML CSS Git: Code Refactor
 
 ## About
