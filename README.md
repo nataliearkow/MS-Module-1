@@ -32,11 +32,3 @@ Went through the index.html and style.css to see what adjusting to the code had 
 ## Changes
 
 Fixed "title" - orginally too generic, adjusted "div" tags to more specific ones (header, nav, section, article, aside, footer), changed headers (h3 tags to h2 tags) and adjusted fonts (for better design and structure), for images, added "alt" text, fixed CSS (reorganized to html sections and prevented repetition), added multiple "id" tags, & commented on HTML and CSS.
-
-## The Output
-
-## References
-
-## Aknowledgements
-
-## Contributing
